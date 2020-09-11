@@ -1,0 +1,13 @@
+C:\LLL\long1\UCLN\bin\Debug\netcoreapp3.1\UCLN.exe
+C:\LLL\long1\UCLN\bin\Debug\netcoreapp3.1\UCLN.deps.json
+C:\LLL\long1\UCLN\bin\Debug\netcoreapp3.1\UCLN.runtimeconfig.json
+C:\LLL\long1\UCLN\bin\Debug\netcoreapp3.1\UCLN.runtimeconfig.dev.json
+C:\LLL\long1\UCLN\bin\Debug\netcoreapp3.1\UCLN.dll
+C:\LLL\long1\UCLN\bin\Debug\netcoreapp3.1\UCLN.pdb
+C:\LLL\long1\UCLN\obj\Debug\netcoreapp3.1\UCLN.csprojAssemblyReference.cache
+C:\LLL\long1\UCLN\obj\Debug\netcoreapp3.1\UCLN.AssemblyInfoInputs.cache
+C:\LLL\long1\UCLN\obj\Debug\netcoreapp3.1\UCLN.AssemblyInfo.cs
+C:\LLL\long1\UCLN\obj\Debug\netcoreapp3.1\UCLN.csproj.CoreCompileInputs.cache
+C:\LLL\long1\UCLN\obj\Debug\netcoreapp3.1\UCLN.dll
+C:\LLL\long1\UCLN\obj\Debug\netcoreapp3.1\UCLN.pdb
+C:\LLL\long1\UCLN\obj\Debug\netcoreapp3.1\UCLN.genruntimeconfig.cache
