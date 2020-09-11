@@ -1,0 +1,13 @@
+C:\LLL\long1\hthiloichao\bin\Debug\netcoreapp3.1\hthiloichao.exe
+C:\LLL\long1\hthiloichao\bin\Debug\netcoreapp3.1\hthiloichao.deps.json
+C:\LLL\long1\hthiloichao\bin\Debug\netcoreapp3.1\hthiloichao.runtimeconfig.json
+C:\LLL\long1\hthiloichao\bin\Debug\netcoreapp3.1\hthiloichao.runtimeconfig.dev.json
+C:\LLL\long1\hthiloichao\bin\Debug\netcoreapp3.1\hthiloichao.dll
+C:\LLL\long1\hthiloichao\bin\Debug\netcoreapp3.1\hthiloichao.pdb
+C:\LLL\long1\hthiloichao\obj\Debug\netcoreapp3.1\hthiloichao.csprojAssemblyReference.cache
+C:\LLL\long1\hthiloichao\obj\Debug\netcoreapp3.1\hthiloichao.AssemblyInfoInputs.cache
+C:\LLL\long1\hthiloichao\obj\Debug\netcoreapp3.1\hthiloichao.AssemblyInfo.cs
+C:\LLL\long1\hthiloichao\obj\Debug\netcoreapp3.1\hthiloichao.csproj.CoreCompileInputs.cache
+C:\LLL\long1\hthiloichao\obj\Debug\netcoreapp3.1\hthiloichao.dll
+C:\LLL\long1\hthiloichao\obj\Debug\netcoreapp3.1\hthiloichao.pdb
+C:\LLL\long1\hthiloichao\obj\Debug\netcoreapp3.1\hthiloichao.genruntimeconfig.cache
