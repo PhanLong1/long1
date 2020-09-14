@@ -1,0 +1,13 @@
+C:\LLL\long1\toantu\bin\Debug\netcoreapp3.1\toantu.exe
+C:\LLL\long1\toantu\bin\Debug\netcoreapp3.1\toantu.deps.json
+C:\LLL\long1\toantu\bin\Debug\netcoreapp3.1\toantu.runtimeconfig.json
+C:\LLL\long1\toantu\bin\Debug\netcoreapp3.1\toantu.runtimeconfig.dev.json
+C:\LLL\long1\toantu\bin\Debug\netcoreapp3.1\toantu.dll
+C:\LLL\long1\toantu\bin\Debug\netcoreapp3.1\toantu.pdb
+C:\LLL\long1\toantu\obj\Debug\netcoreapp3.1\toantu.csprojAssemblyReference.cache
+C:\LLL\long1\toantu\obj\Debug\netcoreapp3.1\toantu.AssemblyInfoInputs.cache
+C:\LLL\long1\toantu\obj\Debug\netcoreapp3.1\toantu.AssemblyInfo.cs
+C:\LLL\long1\toantu\obj\Debug\netcoreapp3.1\toantu.csproj.CoreCompileInputs.cache
+C:\LLL\long1\toantu\obj\Debug\netcoreapp3.1\toantu.dll
+C:\LLL\long1\toantu\obj\Debug\netcoreapp3.1\toantu.pdb
+C:\LLL\long1\toantu\obj\Debug\netcoreapp3.1\toantu.genruntimeconfig.cache
