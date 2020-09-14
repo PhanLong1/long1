@@ -1,0 +1,13 @@
+C:\LLL\long1\tinhsongaytrongthang\bin\Debug\netcoreapp3.1\tinhsongaytrongthang.exe
+C:\LLL\long1\tinhsongaytrongthang\bin\Debug\netcoreapp3.1\tinhsongaytrongthang.deps.json
+C:\LLL\long1\tinhsongaytrongthang\bin\Debug\netcoreapp3.1\tinhsongaytrongthang.runtimeconfig.json
+C:\LLL\long1\tinhsongaytrongthang\bin\Debug\netcoreapp3.1\tinhsongaytrongthang.runtimeconfig.dev.json
+C:\LLL\long1\tinhsongaytrongthang\bin\Debug\netcoreapp3.1\tinhsongaytrongthang.dll
+C:\LLL\long1\tinhsongaytrongthang\bin\Debug\netcoreapp3.1\tinhsongaytrongthang.pdb
+C:\LLL\long1\tinhsongaytrongthang\obj\Debug\netcoreapp3.1\tinhsongaytrongthang.csprojAssemblyReference.cache
+C:\LLL\long1\tinhsongaytrongthang\obj\Debug\netcoreapp3.1\tinhsongaytrongthang.AssemblyInfoInputs.cache
+C:\LLL\long1\tinhsongaytrongthang\obj\Debug\netcoreapp3.1\tinhsongaytrongthang.AssemblyInfo.cs
+C:\LLL\long1\tinhsongaytrongthang\obj\Debug\netcoreapp3.1\tinhsongaytrongthang.csproj.CoreCompileInputs.cache
+C:\LLL\long1\tinhsongaytrongthang\obj\Debug\netcoreapp3.1\tinhsongaytrongthang.dll
+C:\LLL\long1\tinhsongaytrongthang\obj\Debug\netcoreapp3.1\tinhsongaytrongthang.pdb
+C:\LLL\long1\tinhsongaytrongthang\obj\Debug\netcoreapp3.1\tinhsongaytrongthang.genruntimeconfig.cache
