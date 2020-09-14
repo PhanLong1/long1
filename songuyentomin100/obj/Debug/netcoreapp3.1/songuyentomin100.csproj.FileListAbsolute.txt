@@ -1,0 +1,13 @@
+C:\LLL\long1\songuyentomin100\bin\Debug\netcoreapp3.1\songuyentomin100.exe
+C:\LLL\long1\songuyentomin100\bin\Debug\netcoreapp3.1\songuyentomin100.deps.json
+C:\LLL\long1\songuyentomin100\bin\Debug\netcoreapp3.1\songuyentomin100.runtimeconfig.json
+C:\LLL\long1\songuyentomin100\bin\Debug\netcoreapp3.1\songuyentomin100.runtimeconfig.dev.json
+C:\LLL\long1\songuyentomin100\bin\Debug\netcoreapp3.1\songuyentomin100.dll
+C:\LLL\long1\songuyentomin100\bin\Debug\netcoreapp3.1\songuyentomin100.pdb
+C:\LLL\long1\songuyentomin100\obj\Debug\netcoreapp3.1\songuyentomin100.csprojAssemblyReference.cache
+C:\LLL\long1\songuyentomin100\obj\Debug\netcoreapp3.1\songuyentomin100.AssemblyInfoInputs.cache
+C:\LLL\long1\songuyentomin100\obj\Debug\netcoreapp3.1\songuyentomin100.AssemblyInfo.cs
+C:\LLL\long1\songuyentomin100\obj\Debug\netcoreapp3.1\songuyentomin100.csproj.CoreCompileInputs.cache
+C:\LLL\long1\songuyentomin100\obj\Debug\netcoreapp3.1\songuyentomin100.dll
+C:\LLL\long1\songuyentomin100\obj\Debug\netcoreapp3.1\songuyentomin100.pdb
+C:\LLL\long1\songuyentomin100\obj\Debug\netcoreapp3.1\songuyentomin100.genruntimeconfig.cache
