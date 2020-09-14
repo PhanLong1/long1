@@ -1,0 +1,13 @@
+C:\LLL\long1\ktsonguyento\bin\Debug\netcoreapp3.1\ktsonguyento.exe
+C:\LLL\long1\ktsonguyento\bin\Debug\netcoreapp3.1\ktsonguyento.deps.json
+C:\LLL\long1\ktsonguyento\bin\Debug\netcoreapp3.1\ktsonguyento.runtimeconfig.json
+C:\LLL\long1\ktsonguyento\bin\Debug\netcoreapp3.1\ktsonguyento.runtimeconfig.dev.json
+C:\LLL\long1\ktsonguyento\bin\Debug\netcoreapp3.1\ktsonguyento.dll
+C:\LLL\long1\ktsonguyento\bin\Debug\netcoreapp3.1\ktsonguyento.pdb
+C:\LLL\long1\ktsonguyento\obj\Debug\netcoreapp3.1\ktsonguyento.csprojAssemblyReference.cache
+C:\LLL\long1\ktsonguyento\obj\Debug\netcoreapp3.1\ktsonguyento.AssemblyInfoInputs.cache
+C:\LLL\long1\ktsonguyento\obj\Debug\netcoreapp3.1\ktsonguyento.AssemblyInfo.cs
+C:\LLL\long1\ktsonguyento\obj\Debug\netcoreapp3.1\ktsonguyento.csproj.CoreCompileInputs.cache
+C:\LLL\long1\ktsonguyento\obj\Debug\netcoreapp3.1\ktsonguyento.dll
+C:\LLL\long1\ktsonguyento\obj\Debug\netcoreapp3.1\ktsonguyento.pdb
+C:\LLL\long1\ktsonguyento\obj\Debug\netcoreapp3.1\ktsonguyento.genruntimeconfig.cache
