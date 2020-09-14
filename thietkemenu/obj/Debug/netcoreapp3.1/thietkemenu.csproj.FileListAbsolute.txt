@@ -1,0 +1,13 @@
+C:\LLL\long1\thietkemenu\bin\Debug\netcoreapp3.1\thietkemenu.exe
+C:\LLL\long1\thietkemenu\bin\Debug\netcoreapp3.1\thietkemenu.deps.json
+C:\LLL\long1\thietkemenu\bin\Debug\netcoreapp3.1\thietkemenu.runtimeconfig.json
+C:\LLL\long1\thietkemenu\bin\Debug\netcoreapp3.1\thietkemenu.runtimeconfig.dev.json
+C:\LLL\long1\thietkemenu\bin\Debug\netcoreapp3.1\thietkemenu.dll
+C:\LLL\long1\thietkemenu\bin\Debug\netcoreapp3.1\thietkemenu.pdb
+C:\LLL\long1\thietkemenu\obj\Debug\netcoreapp3.1\thietkemenu.csprojAssemblyReference.cache
+C:\LLL\long1\thietkemenu\obj\Debug\netcoreapp3.1\thietkemenu.AssemblyInfoInputs.cache
+C:\LLL\long1\thietkemenu\obj\Debug\netcoreapp3.1\thietkemenu.AssemblyInfo.cs
+C:\LLL\long1\thietkemenu\obj\Debug\netcoreapp3.1\thietkemenu.csproj.CoreCompileInputs.cache
+C:\LLL\long1\thietkemenu\obj\Debug\netcoreapp3.1\thietkemenu.dll
+C:\LLL\long1\thietkemenu\obj\Debug\netcoreapp3.1\thietkemenu.pdb
+C:\LLL\long1\thietkemenu\obj\Debug\netcoreapp3.1\thietkemenu.genruntimeconfig.cache
