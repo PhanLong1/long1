@@ -1,0 +1,13 @@
+C:\LLL\long1\dethi1\bin\Debug\netcoreapp3.1\dethi1.exe
+C:\LLL\long1\dethi1\bin\Debug\netcoreapp3.1\dethi1.deps.json
+C:\LLL\long1\dethi1\bin\Debug\netcoreapp3.1\dethi1.runtimeconfig.json
+C:\LLL\long1\dethi1\bin\Debug\netcoreapp3.1\dethi1.runtimeconfig.dev.json
+C:\LLL\long1\dethi1\bin\Debug\netcoreapp3.1\dethi1.dll
+C:\LLL\long1\dethi1\bin\Debug\netcoreapp3.1\dethi1.pdb
+C:\LLL\long1\dethi1\obj\Debug\netcoreapp3.1\dethi1.csprojAssemblyReference.cache
+C:\LLL\long1\dethi1\obj\Debug\netcoreapp3.1\dethi1.AssemblyInfoInputs.cache
+C:\LLL\long1\dethi1\obj\Debug\netcoreapp3.1\dethi1.AssemblyInfo.cs
+C:\LLL\long1\dethi1\obj\Debug\netcoreapp3.1\dethi1.csproj.CoreCompileInputs.cache
+C:\LLL\long1\dethi1\obj\Debug\netcoreapp3.1\dethi1.dll
+C:\LLL\long1\dethi1\obj\Debug\netcoreapp3.1\dethi1.pdb
+C:\LLL\long1\dethi1\obj\Debug\netcoreapp3.1\dethi1.genruntimeconfig.cache
