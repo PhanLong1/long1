@@ -1,0 +1,13 @@
+C:\LLL\long1\cauu2\bin\Debug\netcoreapp3.1\cauu2.exe
+C:\LLL\long1\cauu2\bin\Debug\netcoreapp3.1\cauu2.deps.json
+C:\LLL\long1\cauu2\bin\Debug\netcoreapp3.1\cauu2.runtimeconfig.json
+C:\LLL\long1\cauu2\bin\Debug\netcoreapp3.1\cauu2.runtimeconfig.dev.json
+C:\LLL\long1\cauu2\bin\Debug\netcoreapp3.1\cauu2.dll
+C:\LLL\long1\cauu2\bin\Debug\netcoreapp3.1\cauu2.pdb
+C:\LLL\long1\cauu2\obj\Debug\netcoreapp3.1\cauu2.csprojAssemblyReference.cache
+C:\LLL\long1\cauu2\obj\Debug\netcoreapp3.1\cauu2.AssemblyInfoInputs.cache
+C:\LLL\long1\cauu2\obj\Debug\netcoreapp3.1\cauu2.AssemblyInfo.cs
+C:\LLL\long1\cauu2\obj\Debug\netcoreapp3.1\cauu2.csproj.CoreCompileInputs.cache
+C:\LLL\long1\cauu2\obj\Debug\netcoreapp3.1\cauu2.dll
+C:\LLL\long1\cauu2\obj\Debug\netcoreapp3.1\cauu2.pdb
+C:\LLL\long1\cauu2\obj\Debug\netcoreapp3.1\cauu2.genruntimeconfig.cache
